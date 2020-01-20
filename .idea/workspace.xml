@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d803ca65-f783-4f35-9e14-096156e36b54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GuessTheNumber/Guess_the_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GuessTheNumber/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumberSwapping/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +63,7 @@
       <updated>1566634806075</updated>
       <workItem from="1566634836141" duration="792000" />
       <workItem from="1579268473530" duration="302000" />
-      <workItem from="1579538156578" duration="156000" />
+      <workItem from="1579538156578" duration="407000" />
     </task>
     <task id="LOCAL-00001" summary="ADDED HCF&amp;LCM.py">
       <created>1579268630607</created>
@@ -73,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579268630607</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ADDED Guess_the_number.py game">
+      <created>1579538394185</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579538394185</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,16 +90,17 @@
     <MESSAGE value="initial commit :&#10;added author details" />
     <MESSAGE value="added input value to variable" />
     <MESSAGE value="ADDED HCF&amp;LCM.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADDED HCF&amp;LCM.py" />
+    <MESSAGE value="ADDED Guess_the_number.py game" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADDED Guess_the_number.py game" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1579268818786">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1579538390560">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1579268818786" />
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1579538390560" />
     <state x="395" y="99" key="MultipleFileMergeDialog" timestamp="1579268610821">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -102,10 +109,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="25" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1579538243116" />
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1579268823504">
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1579538394466">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1579268823504" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1579538394466" />
     <state x="379" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1579538212192">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
